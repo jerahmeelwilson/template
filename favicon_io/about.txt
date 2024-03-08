@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Carme
+- Font Author: Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com), with Reserved Font Name Carme.
+- Font Source: https://fonts.gstatic.com/s/carme/v16/ptRHTiWdbvZIDOjGxLNrxfbZ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
